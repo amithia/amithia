@@ -11,7 +11,9 @@ Currently working in Digital Strategy, Insights and Analytics at ANU and as a Fu
 * ✉️  You can contact me at [aliyanagamage@gmail.com](mailto:aliyanagamage@gmail.com)
 * 🚀  I'm currently working on [Ion Studio (coming soon...)](http://)
 
-### Skills
+## Skills
+
+### Teck Stack
 
 <table width="100%">
   <tr>
@@ -26,6 +28,27 @@ Currently working in Digital Strategy, Insights and Analytics at ANU and as a Fu
   </tr>
 </table>
 
-### Socials
+### Data & Analytics
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logoColor=black)
+![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logoColor=white)
+
+### Project Management
+
+![Asana](https://img.shields.io/badge/asana-F06A6A?style=for-the-badge&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logoColor=white)
+![FigJam](https://img.shields.io/badge/figjam-F24E1E?style=for-the-badge&logoColor=white)
+
+## Socials
 
 <a href="https://www.github.com/amithia" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></picture></a> <a href="https://www.linkedin.com/in/amithi-liyanagamage" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></picture></a>
