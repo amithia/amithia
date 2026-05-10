@@ -4,7 +4,7 @@ Hiya, my name is Amithi
 Web Project Officer @ ANU · Full-Stack Developer @ Ion Studio
 ------------------------------------------------------------
 
-Currently working in Digital Strategy, Insights and Analytics at ANU and as a Full-Stack Developer at IonStudio. My work spans web development, data analytics, consulting and education technology.
+Currently working in Digital Strategy, Insights and Analytics at ANU and as a Full-Stack Developer at Ion Studio. My work spans web development, data analytics, consulting and education technology.
 
 * 🌍  I'm based in Canberra, Australia
 * 🖥️  See my portfolio at [coming soon...](http://)
