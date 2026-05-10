@@ -1,4 +1,4 @@
-Hi there, my name is Amithi Liyanagamage
+Hiya, my name is Amithi
 ====================================
 
 Web Project Officer @ ANU · Full-Stack Developer @ Ion Studio
