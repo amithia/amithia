@@ -7,7 +7,7 @@ Web Project Officer @ ANU · Full-Stack Developer @ Ion Studio
 Currently working in Digital Strategy, Insights and Analytics at ANU and as a Full-Stack Developer at Ion Studio. My work spans web development, data analytics, consulting and education technology.
 
 * 🌍  I'm based in Canberra, Australia
-* 🖥️  See my portfolio at [coming soon...]
+* 🖥️  See my portfolio at [amithi.work](https://amithi.work)
 * ✉️  You can contact me at [aliyanagamage@gmail.com](mailto:aliyanagamage@gmail.com)
 * 🚀  I'm currently working on [Ion Studio](http://) [coming soon...]
 
